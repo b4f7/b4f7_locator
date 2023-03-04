@@ -1,0 +1,33 @@
+{
+  "name": "b4f7/locator",
+  "description": "Locator",
+  "type": "typo3-cms-extension",
+  "license": "GPL-2.0-or-later",
+  "authors": [
+    {
+      "name": "Björn Feischen",
+      "role": "Developer",
+      "homepage": "https://b4f7.de/"
+    }
+  ],
+  "config": {
+    "platform": {
+      "php": "8.1"
+    },
+    "sort-packages": true
+  },
+  "require": {
+    "typo3/cms-core": "^11.5",
+    "friendsoftypo3/tt-address": "^7.1"
+  },
+  "autoload": {
+    "psr-4": {
+      "b4f7\\Locator\\": "Classes/"
+    }
+  },
+  "extra": {
+    "typo3/cms": {
+      "extension-key": "b4f7_locator"
+    }
+  }
+}
