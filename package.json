@@ -1,0 +1,14 @@
+{
+  "name": "b4f7_locator",
+  "description": "TYPO3 extension providing an interactive map of tt_address locations.",
+  "license": "GPL-2.0-or-later",
+  "repository": "https://github.com/b4f7/b4f7_locator",
+  "homepage": "https://typo3.b4f7.de/extensions/locator",
+  "author": {
+    "name": "Björn Feischen",
+    "url": "https://b4f7.de/"
+  },
+  "dependencies": {
+    "leaflet": "^1.9.3"
+  }
+}
