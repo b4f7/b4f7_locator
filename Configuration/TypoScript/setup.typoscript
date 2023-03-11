@@ -1,0 +1,10 @@
+page {
+    includeCSS {
+        tx_b4f7locator = EXT:b4f7_locator/Resources/Public/Css/index.css
+    }
+
+    includeJSFooter {
+        tx_b4f7locator = EXT:b4f7_locator/Resources/Public/JavaScript/index.js
+        tx_b4f7locator.defer = 1
+    }
+}
