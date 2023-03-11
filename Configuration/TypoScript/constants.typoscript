@@ -1,0 +1,6 @@
+plugin.tx_b4f7locator {
+    settings {
+        # cat=b4f7_locator; type=int; label=Adress object storage PID
+        storagePid =
+    }
+}
