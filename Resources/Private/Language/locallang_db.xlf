@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+    <file source-language="en"
+          datatype="plaintext"
+          original="EXT:b4f7_locator/Resources/Private/Language/locallang_db.xlf" date="2023-03-25T23:13:00Z"
+          product-name="b4f7_locator">
+        <header/>
+        <body>
+            <trans-unit id="plugin.map.title" resname="plugin.map.title">
+                <source>Locator Map</source>
+            </trans-unit>
+            <trans-unit id="plugin.map.description" resname="plugin.map.description">
+                <source>Display a map and search field for locations.</source>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>

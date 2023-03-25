@@ -1,0 +1,17 @@
+mod.wizards.newContentElement.wizardItems {
+    plugins {
+        elements {
+            b4f7locator_map {
+                iconIdentifier = b4f7locator_map
+                title = LLL:EXT:b4f7_locator/Resources/Private/Language/locallang_db.xlf:plugin.map.title
+                description = LLL:EXT:b4f7_locator/Resources/Private/Language/locallang_db.xlf:plugin.map.description
+                tt_content_defValues {
+                    CType = list
+                    list_type = = b4f7locator_map
+                }
+            }
+        }
+
+        show := addToList(b4f7locator_map)
+    }
+}

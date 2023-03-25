@@ -1,6 +1,8 @@
 /.idea/
 /node_modules/
-/Resources/Public/
+/Resources/Public/Css
+/Resources/Public/Images
+/Resources/Public/JavaScript
 
 # The following:
 # Created by https://www.toptal.com/developers/gitignore/api/windows,linux,macos
